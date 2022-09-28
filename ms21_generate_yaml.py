@@ -212,6 +212,7 @@ def make_stem(obj, stems_path, directory_path, track_df, inst_names, stem_inst_n
     if stem_inst_name == 'backing_vocal':
         print("updating new backing vocal track")
         y, loudness, types = inst_spec_mix(tracks, stem_inst_name, threshold=-60)
+        sr = 44100
 
     else:
         y, sr = sf.read(tracks[0], always_2d=True)
