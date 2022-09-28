@@ -216,18 +216,18 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
                 norm_mono2st_submix, _, _ = loudness_normalization(mono2st_submix, rate, stem_inst_name, -25)
             else:
                 mono2st_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono2st_submix = np.repeat(mono2st_submix, 2, axis=0)
+                norm_mono2st_submix = np.repeat(mono2st_submix, 2, axis=1)
 
             if idp_idx != []:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
                 for i in range(len(idp_idx)):
                     mono_submix += mono_audio_pan[idp_idx[i]]
                 if len(mono_submix.shape) != 2:
-                    mono_submix = np.repeat(mono_submix, 2, axis=0)
+                    mono_submix = np.repeat(mono_submix, 2, axis=1)
                 norm_mono_submix, _, _ = loudness_normalization(mono_submix, rate, stem_inst_name, -25)
             else:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono_submix = np.repeat(mono_submix, 2, axis=0)
+                norm_mono_submix = np.repeat(mono_submix, 2, axis=1)
 
         else:
             print("No mono tracks for panning")
