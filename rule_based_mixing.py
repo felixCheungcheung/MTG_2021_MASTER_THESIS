@@ -227,6 +227,8 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
                     mono_submix = np.zeros_like(audio[:,0])
                     norm_mono_submix = np.tile(mono_submix, (2,1)).T
                     norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
+                    st_submix = np.zeros_like(audio)
+                    norm_st_submix = np.zeros_like(audio)
 
         if mono_audio_pan != []:
             units, idp_idx = unit_assign(mono_audio_pan, threshold)
