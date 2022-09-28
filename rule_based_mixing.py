@@ -192,12 +192,23 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
     if stem_inst_name == 'backing_vocal':
         mono_audio_pan = []
         st_audio_pan = []
-        
+        count = 0
         for path in track_path_list:
             # find true stereo and exclude them from panning
             # print(path)
             audio, rate = sf.read(path, always_2d=True)
+
             if audio.shape[1]==2:
+                # define
+                if count == 0:
+                    count += 1
+                    mono2st_submix = np.zeros_like(audio[:,0])
+                    mono_submix = np.zeros_like(audio[:,0])
+                    norm_mono_submix = np.tile(mono_submix, (2,1)).T
+                    norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
+                    st_submix = np.zeros_like(audio)
+                    norm_st_submix = np.zeros_like(audio)
+
                 st_idx = find_true_stereo(audio, threshold)
                 # print("Correlation Index: ", st_idx, "Path: ", path)
                 if st_idx >=0.98:
@@ -210,41 +221,37 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
 
             else:
                 mono_audio_pan.append(audio[:,0])
+                if count == 0:
+                    count += 1
+                    mono2st_submix = np.zeros_like(audio[:,0])
+                    mono_submix = np.zeros_like(audio[:,0])
+                    norm_mono_submix = np.tile(mono_submix, (2,1)).T
+                    norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
+
         if mono_audio_pan != []:
             units, idp_idx = unit_assign(mono_audio_pan, threshold)
             if units != []:
                 mono2st_submix = assign_panning(mono_audio_pan, units, stem_inst_name)
                 norm_mono2st_submix, _, _ = loudness_normalization(mono2st_submix, rate, stem_inst_name, -25)
-            else:
-                mono2st_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
-                
+
             if idp_idx != []:
-                mono_submix = np.zeros_like(mono_audio_pan[0])
                 for i in range(len(idp_idx)):
                     mono_submix += mono_audio_pan[idp_idx[i]]
                 
                 mono_submix = np.tile(mono_submix, (2,1)).T
                 norm_mono_submix, _, _ = loudness_normalization(mono_submix, rate, stem_inst_name, -25)
-            else:
-                mono_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono_submix = np.tile(mono_submix, (2,1)).T
-
+                
         else:
             print("No mono tracks for panning")
-        
 
         if st_audio_pan != []:
-            st_submix = np.zeros_like(mono_audio_pan[0])
-            st_submix = np.tile(st_submix, (2,1)).T
             for i in range(len(st_audio_pan)):
                 st_submix += st_audio_pan[i]
             
-            norm_st_submix, _, _ = loudness_normalization(st_submix, rate, stem_inst_name, -25)
+            norm_st_submix, _, _ = loudness_normalization(st_submix, rate, stem_inst_name, -25)    
         else:
             print("No stereo tracks")
-            st_submix = np.zeros_like(mono_audio_pan[0])
-            norm_st_submix = np.tile(st_submix, (2,1)).T
+            
 
         final_mix = norm_mono_submix + norm_st_submix + norm_mono2st_submix
         norm_final_mix, loudness, types = loudness_normalization(final_mix, rate, stem_inst_name, -25)
