@@ -216,18 +216,18 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
                 norm_mono2st_submix, _, _ = loudness_normalization(mono2st_submix, rate, stem_inst_name, -25)
             else:
                 mono2st_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono2st_submix = np.repeat(mono2st_submix, 2, axis=1)
+                norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
 
             if idp_idx != []:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
                 for i in range(len(idp_idx)):
                     mono_submix += mono_audio_pan[idp_idx[i]]
-                if len(mono_submix.shape) != 2:
-                    mono_submix = np.repeat(mono_submix, 2, axis=1)
+                
+                mono_submix = np.tile(mono_submix, (2,1)).T
                 norm_mono_submix, _, _ = loudness_normalization(mono_submix, rate, stem_inst_name, -25)
             else:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono_submix = np.repeat(mono_submix, 2, axis=1)
+                norm_mono_submix = np.tile(mono_submix, (2,1)).T
 
         else:
             print("No mono tracks for panning")
@@ -239,7 +239,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
         else:
             print("No stereo tracks")
             st_submix = np.zeros_like(mono_audio_pan[0])
-            norm_st_submix = np.repeat(st_submix, 2, axis=1)
+            norm_st_submix = np.tile(st_submix, (2,1)).T
 
         final_mix = norm_mono_submix + norm_st_submix + norm_mono2st_submix
         norm_final_mix, loudness, types = loudness_normalization(final_mix, rate, stem_inst_name, -25)
@@ -248,18 +248,13 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
 
 # if __name__ == "__main__":
 
-#     root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
-#     stem_inst_name = sys.argv[2] 
-
-#     arg_list = []
-#     for split in os.listdir(root_path):
-#         if split not in ['train']: # modified to quick evaluate the dataset
-#             continue
+#     root_path = "E:\\ms21hq_finalDB_44k_norm\\val\\James May - On The Line\\James May - On The Line_RAW"
+#     stem_inst_name = 'backing_vocal'
 
 #     track_path_list = []
 #     for track in os.listdir(root_path):
 #         if 'backingvox' in track.lower():
-#             track_path_list.append(track)
+#             track_path_list.append(os.path.join(root_path,track))
 #     print(track_path_list)
     
 #     norm_final_mix, loudness, types = inst_spec_mix(track_path_list, stem_inst_name, -60)
