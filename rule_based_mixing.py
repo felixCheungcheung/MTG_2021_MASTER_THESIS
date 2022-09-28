@@ -1,3 +1,4 @@
+from logging import root
 import os
 import soundfile as sf
 import pyloudnorm as pyln
@@ -29,12 +30,12 @@ def correlation(audio1, audio2):
     return correlate(audio1, audio2)
 
 def salient_info(X, nfft, threshold):
-    eps = np.finfo(np.float).eps
-    if len(X.shape) == 3:
-        magdB = 20*np.log10(sum(np.abs(X[0][:])))   # only calculate the first channel
-    else:
-        magdB = 20*np.log10(sum(np.abs(X[:,])))
-    mask = (magdB >= threshold)                 # same dimension as X
+    with np.errstate(divide='ignore'):
+        if len(X.shape) == 3:
+            magdB = 20*np.log10(sum(np.abs(X[0][:])))   # only calculate the first channel
+        else:
+            magdB = 20*np.log10(sum(np.abs(X[:,])))
+        mask = (magdB >= threshold)                 # same dimension as X
     return mask
 
 def find_true_stereo(audio, threshold = -60):
@@ -217,7 +218,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
             else:
                 mono2st_submix = np.zeros_like(mono_audio_pan[0])
                 norm_mono2st_submix = np.tile(mono2st_submix, (2,1)).T
-
+                
             if idp_idx != []:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
                 for i in range(len(idp_idx)):
@@ -246,15 +247,16 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
   
     return norm_final_mix, loudness, types
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 
-#     root_path = "E:\\ms21hq_finalDB_44k_norm\\val\\James May - On The Line\\James May - On The Line_RAW"
-#     stem_inst_name = 'backing_vocal'
+    root_path = "E:\\ms21hq_finalDB_44k_norm\\val"
+    stem_inst_name = 'backing_vocal'
 
-#     track_path_list = []
-#     for track in os.listdir(root_path):
-#         if 'backingvox' in track.lower():
-#             track_path_list.append(os.path.join(root_path,track))
-#     print(track_path_list)
-    
-#     norm_final_mix, loudness, types = inst_spec_mix(track_path_list, stem_inst_name, -60)
+    for i in os.listdir(root_path):
+        track_path_list = []
+        for track in os.listdir(os.path.join(root_path, i, i+"_RAW")):
+            if 'backingvox' in track.lower():
+                track_path_list.append(os.path.join(root_path, i, i+"_RAW",track))
+        print(track_path_list)
+        
+        norm_final_mix, loudness, types = inst_spec_mix(track_path_list, stem_inst_name, -60)
