@@ -29,7 +29,7 @@ def correlation(audio1, audio2):
     return correlate(audio1, audio2)
 
 def salient_info(X, nfft, threshold):
-    
+    eps = np.finfo(np.float).eps
     if len(X.shape) == 3:
         magdB = 20*np.log10(sum(np.abs(X[0][:])))   # only calculate the first channel
     else:
@@ -216,18 +216,18 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
                 norm_mono2st_submix, _, _ = loudness_normalization(mono2st_submix, rate, stem_inst_name, -25)
             else:
                 mono2st_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono2st_submix = np.repeat(mono2st_submix, 2, axis=1)
+                norm_mono2st_submix = np.repeat(mono2st_submix, 2, axis=0)
 
             if idp_idx != []:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
                 for i in range(len(idp_idx)):
                     mono_submix += mono_audio_pan[idp_idx[i]]
-                if mono_submix.shape[1] != 2:
-                    mono_submix = np.repeat(mono_submix, 2, axis=1)
+                if len(mono_submix.shape) != 2:
+                    mono_submix = np.repeat(mono_submix, 2, axis=0)
                 norm_mono_submix, _, _ = loudness_normalization(mono_submix, rate, stem_inst_name, -25)
             else:
                 mono_submix = np.zeros_like(mono_audio_pan[0])
-                norm_mono_submix = np.repeat(mono_submix, 2, axis=1)
+                norm_mono_submix = np.repeat(mono_submix, 2, axis=0)
 
         else:
             print("No mono tracks for panning")
@@ -239,7 +239,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
         else:
             print("No stereo tracks")
             st_submix = np.zeros_like(mono_audio_pan[0])
-            norm_st_submix = np.repeat(st_submix, 2, axis=1)
+            norm_st_submix = np.repeat(st_submix, 2, axis=0)
 
         final_mix = norm_mono_submix + norm_st_submix + norm_mono2st_submix
         norm_final_mix, loudness, types = loudness_normalization(final_mix, rate, stem_inst_name, -25)
