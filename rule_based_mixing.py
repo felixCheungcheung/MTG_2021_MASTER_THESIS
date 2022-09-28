@@ -239,7 +239,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
         else:
             print("No stereo tracks")
             st_submix = np.zeros_like(mono_audio_pan[0])
-            norm_st_submix = np.repeat(st_submix, 2, axis=0)
+            norm_st_submix = np.repeat(st_submix, 2, axis=1)
 
         final_mix = norm_mono_submix + norm_st_submix + norm_mono2st_submix
         norm_final_mix, loudness, types = loudness_normalization(final_mix, rate, stem_inst_name, -25)
