@@ -209,7 +209,7 @@ def inst_spec_mix(track_path_list, stem_inst_name, threshold = -60):
                     # frame wise loudness normalization
 
             else:
-                mono_audio_pan.append(audio)
+                mono_audio_pan.append(audio[:,0])
         if mono_audio_pan != []:
             units, idp_idx = unit_assign(mono_audio_pan, threshold)
             if units != []:
