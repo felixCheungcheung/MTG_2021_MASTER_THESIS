@@ -15,17 +15,17 @@ base_path = sys.argv[1] # '/media/felix/dataset/ms21'
 
 output_path = sys.argv[2] #  '/media/felix/dataset/ms21_norm'
 
-target_loudness = sys.argv[3]
+target_loudness = sys.argv[3] # default to be -25 LUKS
 # print(output_path)
 os.makedirs(output_path,exist_ok=True)
 # print(base_path)
 fail_list = []
-def loud_norm(path, output_path, split, dir, file_name, target_loudness):
+def loud_norm(path, output_path, split, dir, file_name, target_loudness = -25):
     data, rate = sf.read(path) # load audio
     # measure the loudness first 
     meter = pyln.Meter(rate) # create BS.1770 meter
     loudness = meter.integrated_loudness(data)
-    loudness_normalized_audio = pyln.normalize.loudness(data, loudness, -25.0) 
+    loudness_normalized_audio = pyln.normalize.loudness(data, loudness, target_loudness) 
     sf.write(os.path.join(output_path,split,dir,file_name),loudness_normalized_audio, rate)
     print("Normalized ",path)
 
