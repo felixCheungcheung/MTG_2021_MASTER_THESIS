@@ -305,7 +305,7 @@ def loudness_normalization(data, rate, stem_inst_name, target_loudness=-20.0):
         return normalized_audio, meter.integrated_loudness(normalized_audio), 'INTEGRATED'
     
 if __name__ == "__main__":
-    root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' need to contain the subfolder
+    root_path = sys.argv[1] # '/media/felix/dataset/ms21/train' 
 
     out_path = sys.argv[2] #  '/media/felix/dataset/ms21_DB
     # print(output_path)
@@ -319,7 +319,7 @@ if __name__ == "__main__":
     threads = int(sys.argv[3])
     arg_list = []
     for split in os.listdir(root_path):
-        if split not in ['train']: # modify to quick evaluate the dataset
+        if split not in ['val']: # modify to quick evaluate the dataset
             continue
         pool = ThreadPool(threads)
         base_path = os.path.join(root_path, split)
