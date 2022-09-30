@@ -319,7 +319,7 @@ if __name__ == "__main__":
     threads = int(sys.argv[3])
     arg_list = []
     for split in os.listdir(root_path):
-        if split not in ['val']: # modify to quick evaluate the dataset
+        if split not in ['train']: # modify to quick evaluate the dataset
             continue
         pool = ThreadPool(threads)
         base_path = os.path.join(root_path, split)
@@ -330,6 +330,7 @@ if __name__ == "__main__":
             if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
                 residual_path_list.append(i)
         print(len(residual_path_list))
+        exit()
         with pool:
             pool.map(gen_yaml, residual_path_list)
         # for i in residual_path_list:
