@@ -59,7 +59,7 @@ def gen_yaml(directory, move_raw = True):
     
     # Get all track paths
     # all_tracks = os.listdir(os.path.join(base_path, directory))
-    all_tracks = os.listdir(os.path.join(base_path, directory, directory+'_RAW'))
+    all_tracks = os.listdir(os.path.join(base_path, directory, directory+'_RAW')) # modify whether to use the tracks in RAW folder or not
     all_tracks = [os.path.join(base_path, directory, directory+'_RAW', track) for track in all_tracks if track.endswith('.wav')]
     
     # Make stems for drums, sfx, loops and synths
@@ -319,7 +319,7 @@ if __name__ == "__main__":
     threads = int(sys.argv[3])
     arg_list = []
     for split in os.listdir(root_path):
-        if split in ['train']: # modify to quick evaluate the dataset
+        if split not in ['train']: # modify to quick evaluate the dataset
             continue
         pool = ThreadPool(threads)
         base_path = os.path.join(root_path, split)
@@ -330,7 +330,7 @@ if __name__ == "__main__":
             if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
                 residual_path_list.append(i)
         print(len(residual_path_list))
-        # with pool:
-        #     pool.map(gen_yaml, residual_path_list)
-        for i in residual_path_list:
-            gen_yaml(i)
+        with pool:
+            pool.map(gen_yaml, residual_path_list)
+        # for i in residual_path_list:
+        #     gen_yaml(i)
