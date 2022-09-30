@@ -329,7 +329,7 @@ if __name__ == "__main__":
         for i in os.listdir(base_path):
             if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
                 residual_path_list.append(i)
-        print(len(residual_path_list))
+        print(residual_path_list)
         exit()
         with pool:
             pool.map(gen_yaml, residual_path_list)
