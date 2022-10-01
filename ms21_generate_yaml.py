@@ -73,9 +73,9 @@ def gen_yaml(directory, move_raw = True):
 
     for inst, tracks_name in hierarchy_file["mix"]["track2inst"].items():
         # uncomment to use the tracks in RAW folder (updating based on the raw tracks in ms21DB)
-        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory, directory+'_RAW'), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
+        # make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory, directory+'_RAW'), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
         
-        # make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
+        make_stem(yaml_obj, os.path.join(save_path, ID, ID+'_STEMS', 'Inst'), os.path.join(base_path, directory), track_df, tracks_name, inst, ID+f'_STEM_Inst_{inst}.wav')
 
     for stem, inst_name in hierarchy_file["mix"]["inst2stem"].items():
         
