@@ -326,15 +326,15 @@ if __name__ == "__main__":
     
     arg_list = []
     for split in os.listdir(root_path):
-        # if split not in ['val']: # modify to quick update the dataset if better automatic mixing algorithm is provided
-        #     continue
+        if split not in ['train']: # modify to quick update the dataset if better automatic mixing algorithm is provided
+            continue
         pool = ThreadPool(threads)
         base_path = os.path.join(root_path, split)
         save_path = os.path.join(out_path,split)
         os.makedirs(save_path, exist_ok=True)
         residual_path_list = []
         for i in os.listdir(base_path):
-            if not os.path.exists(os.path.join(save_path,i,i+'_MIX.wav')):
+            if not os.path.exists(os.path.join(save_path,i,i+'_METADATA.yaml')):
                 residual_path_list.append(i)
         print(residual_path_list)
         
