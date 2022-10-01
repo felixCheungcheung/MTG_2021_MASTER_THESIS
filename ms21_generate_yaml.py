@@ -58,13 +58,13 @@ def gen_yaml(directory, move_raw = True):
     #     return
     
     # Get all track paths
-    # all_tracks = os.listdir(os.path.join(base_path, directory))
-    # all_tracks = [os.path.join(base_path, directory, track) for track in all_tracks if track.endswith('.wav')]
+    all_tracks = os.listdir(os.path.join(base_path, directory))
+    all_tracks = [os.path.join(base_path, directory, track) for track in all_tracks if track.endswith('.wav')]
 
     
     # uncomment to use the tracks in RAW folder (updating based on the raw tracks in ms21DB)
-    all_tracks = os.listdir(os.path.join(base_path, directory, directory+'_RAW')) # modify whether to use the tracks in RAW folder or not
-    all_tracks = [os.path.join(base_path, directory, directory+'_RAW', track) for track in all_tracks if track.endswith('.wav')]
+    # all_tracks = os.listdir(os.path.join(base_path, directory, directory+'_RAW')) # modify whether to use the tracks in RAW folder or not
+    # all_tracks = [os.path.join(base_path, directory, directory+'_RAW', track) for track in all_tracks if track.endswith('.wav')]
 
     
     # Make stems for drums, sfx, loops and synths
