@@ -89,20 +89,28 @@ def unit_assign(audio_list, threshold = -60):
             salient_reference = salient_info(X_ref, nfft, threshold)
             uniques_ref, counts_ref = np.unique(salient_reference, return_counts=True)
             count_ref = dict(zip(uniques_ref, counts_ref))
-            if count_ref[False] == len(salient_reference) :
-                print("Found Silent Reference Track")
+            if False in count_ref.keys():
+                if count_ref[False] == len(salient_reference) :
+                    print("Found Silent Reference Track")
+                    continue
+            else:
+                print("This track is salient all the time, probably contains leakage")
                 continue
-
+            
             salient_ref_frame_num = count_ref[True]
             for can_idx in range(len(audio_list)):
                 if can_idx in selected_idx:
                     continue
                 X = stft(audio_list[can_idx].T, nperseg=nfft )[-1]
-                salience = salient_info(X, nfft, threshold)
+                salience = salient_info(X, nfft, threshold)     # for those track that contain leakage, they can be all salient
                 uniques_can, counts_can = np.unique(salience, return_counts=True)
                 count_can = dict(zip(uniques_can, counts_can))
-                if count_can[False] == len(salience) :
-                    print("Found Silent Reference Track")
+                if False in count_can.keys():
+                    if count_can[False] == len(salience) :
+                        print("Found Silent Candidate Track")
+                        continue
+                else:
+                    print("This track is salient all the time, probably contains leakage")
                     continue
                 # only consider the salient part of the reference and current audio
                 denominator = max(count_can[True], salient_ref_frame_num)
