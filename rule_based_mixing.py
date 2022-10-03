@@ -35,6 +35,7 @@ def salient_info(X, nfft, threshold):
             magdB = 20*np.log10(sum(np.abs(X[0][:])))   # only calculate the first channel
         else:
             magdB = 20*np.log10(sum(np.abs(X[:,])))
+        print(np.min(magdB))
         mask = (magdB >= threshold)                 # same dimension as X
     return mask
 
@@ -95,8 +96,9 @@ def unit_assign(audio_list, threshold = -60):
                     continue
             else:
                 print("This track is salient all the time, probably contains leakage")
+                idp_idx.append(ref_idx)
                 continue
-            
+
             salient_ref_frame_num = count_ref[True]
             for can_idx in range(len(audio_list)):
                 if can_idx in selected_idx:
