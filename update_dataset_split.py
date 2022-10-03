@@ -2,9 +2,8 @@
 
 import os
 import sys
-from typing import List
 import pandas as pd
-import csv
+
 
 base_path = sys.argv[1]
 
