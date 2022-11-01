@@ -1,0 +1,198 @@
+Track2inst:
+  Electric_Organ:
+    Keys-Leslie Bottom-M82.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Keys-Leslie
+        Bottom-M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Keys-Leslie Top-M81.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Keys-Leslie
+        Top-M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer:
+    Keys-Active DI.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Keys-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    Drums-Kick In-M82.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Kick
+        In-M82.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Drums-Kick Out-TF29.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Kick
+        Out-TF29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Snare:
+    Drums-Snare Bottom-M81.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Snare
+        Bottom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Drums-Snare Top-M80.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Snare
+        Top-M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_HiHat:
+    Drums-HAT-M60.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-HAT-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    Drums-Over Close-Ela M 260.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Over
+        Close-Ela M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar'
+      Comment: ''
+    Drums-Over Far-TF29.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Over
+        Far-TF29.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Lead_Vocal'
+      Comment: ''
+  Drum_Tom:
+    Drums-Floor-M81.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Floor-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+    Drums-Rack Tom-M81.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Rack
+        Tom-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    Bass-Active DI.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Bass-Active
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Bass-Amp-TF47.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Bass-Amp-TF47.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    ELE Guitar1-Mike-Proto.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\ELE
+        Guitar1-Mike-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+    ELE Guitar2-Jesse-Proto.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\ELE
+        Guitar2-Jesse-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet:
+    Horns-Trumpet-Ela M 260.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Horns-Trumpet-Ela
+        M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    Horns-Bone Wet-M81.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Horns-Bone
+        Wet-M81.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Electric_Guitar, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+    Horns-Bone-Proto.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Horns-Bone-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trumpet, Electric_Guitar, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Vocals-Erica-Proto.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Vocals-Erica-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads'
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    Vocals-Mike-Proto.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Vocals-Mike-Proto.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Electric_Guitar, Drum_Overheads, Lead_Vocal'
+      Comment: ''
+  Unused:
+    Drums-Room-M60.wav:
+      Track_path: West End Blend - Must Be Voodoo\West End Blend - Must Be Voodoo_RAW\Drums-Room-M60.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

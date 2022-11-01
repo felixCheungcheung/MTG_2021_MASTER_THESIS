@@ -1,0 +1,145 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    12_LeadVox.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\12_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir:
+    01_MainPair1.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\01_MainPair1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_MainPair2.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\02_MainPair2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_SpotMic1_Tenors.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\03_SpotMic1_Tenors.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_SpotMic3_Sopranos.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\05_SpotMic3_Sopranos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_SpotMic4_Altos.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\06_SpotMic4_Altos.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_SpotMic2_Basses.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\04_SpotMic2_Basses.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_BassCloseMic1.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\07_BassCloseMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_BassCloseMic2.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\08_BassCloseMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_BassCloseMic3.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\09_BassCloseMic3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_BassCloseMic4.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\10_BassCloseMic4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_BassCloseMic5.wav:
+      Track_path: Don Camillo Choir - The Marsh Marigold's Song\Don Camillo Choir
+        - The Marsh Marigold's Song_RAW\11_BassCloseMic5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

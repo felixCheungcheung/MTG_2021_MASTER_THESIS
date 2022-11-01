@@ -1,0 +1,199 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    KICK - U48 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\KICK - U48 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUM OVERHEAD STEREO L - AR-70 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\DRUM OVERHEAD STEREO L - AR-70 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    DRUM OVERHEAD STEREO R - AR-70 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\DRUM OVERHEAD STEREO R - AR-70 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    E GUITAR - AR-51 - Presonus M80.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\E GUITAR - AR-51 - Presonus M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Trombone, Trumpet, Saxophone'
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    PIANO A - ELA M 260 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\PIANO A - ELA M 260 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Trombone, Electric_Bass, Trumpet, Saxophone, Claps'
+      Comment: ''
+    PIANO B - ELA M 260 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\PIANO B - ELA M 260 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Trombone, Electric_Bass, Trumpet, Saxophone, Claps'
+      Comment: ''
+  Brass_Section: {}
+  Saxophone:
+    SAX A - AK-47mkII - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\SAX A - AK-47mkII - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    SAX B - AK-47mkII - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\SAX B - AK-47mkII - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+  Trumpet:
+    TRUMPET A - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\TRUMPET A - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Electric_Bass, Trombone, Electric_Guitar, Claps'
+      Comment: ''
+    TRUMPET B - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\TRUMPET B - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Electric_Bass, Trombone, Electric_Guitar, Claps'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    TROMBONE A - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\TROMBONE A - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    TROMBONE B - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\TROMBONE B - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    UPRIGHT BASS - DI - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\UPRIGHT BASS - DI - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet, Trombone, Claps'
+      Comment: ''
+    UPRIGHT BASS - ELA M 260 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\UPRIGHT BASS - ELA M 260 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads, Saxophone, Trumpet, Trombone, Claps'
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    LEAD VOX - U48 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\LEAD VOX - U48 - Neve 33102.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    ROOM A - Beyer Dynamic 160 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\ROOM A - Beyer Dynamic 160 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    ROOM B - Beyer Dynamic 160 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\ROOM B - Beyer Dynamic 160 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    ROOM C - AR-51 - Chandler Germanium.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\ROOM C - AR-51 - Chandler Germanium.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    ROOM D - AR-51 - Chandler Germanium.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\ROOM D - AR-51 - Chandler Germanium.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    ROOM STEREO L - C24 w TFUNK CK12 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\ROOM STEREO L - C24 w TFUNK CK12 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''
+    ROOM STEREO R - C24 w TFUNK CK12 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Corine Corine\The Abletones Big Band -
+        Corine Corine_RAW\ROOM STEREO R - C24 w TFUNK CK12 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trombone, Electric_Bass, Trumpet, Electric_Guitar, Claps'
+      Comment: ''

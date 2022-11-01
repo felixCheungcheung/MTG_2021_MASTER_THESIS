@@ -1,0 +1,203 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    01_Pizz1.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\01_Pizz1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_Pizz2.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\02_Pizz2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_Pizz3.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\03_Pizz3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_Pizz4.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\04_Pizz4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_Pizz5.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\05_Pizz5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_ArcoRhythm1.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\06_ArcoRhythm1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_ArcoRhythm2.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\07_ArcoRhythm2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_ArcoRhythm3.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\08_ArcoRhythm3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_ArcoRhythm4.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\09_ArcoRhythm4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    10_ArcoRhythm5.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\10_ArcoRhythm5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    11_ArcoRhythm6.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\11_ArcoRhythm6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    12_SFX1.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\12_SFX1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    13_SFX2.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\13_SFX2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello:
+    14_Theme.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\14_Theme.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    15_ThemeDT.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\15_ThemeDT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    16_ThemeCounter.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\16_ThemeCounter.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    17_Lyrical1.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\17_Lyrical1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    18_Lyrical2.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\18_Lyrical2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    19_Lyrical3.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\19_Lyrical3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    20_Lyrical3DT.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\20_Lyrical3DT.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    21_Lyrical4.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\21_Lyrical4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    22_Lyrical4Octave.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\22_Lyrical4Octave.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    23_Lyrical5.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\23_Lyrical5.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    24_Lyrical5Octave.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\24_Lyrical5Octave.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    25_Lyrical6.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\25_Lyrical6.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    26_Lyrical6Octave.wav:
+      Track_path: Simon Lyn - Copper\Simon Lyn - Copper_RAW\26_Lyrical6Octave.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

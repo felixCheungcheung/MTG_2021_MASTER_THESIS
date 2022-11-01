@@ -8,9 +8,9 @@ import pandas as pd
 Manually annotate bleeding information for each multi-track,
 Semi-automatically group multi-tracks to instrument labels (70): track2inst level grouping, based on actual music content of each track.
 """
-dataset_path = "E:" # sys.argv[1]
-save_path = "E:\\Bleed_annotation"
-csv_path = 'mixing_secret_dataset_final_name_with_comment.csv'
+dataset_path = "E:\\ADDMS21_DB" # sys.argv[1]
+save_path = "E:\\ADD_Bleed_annotation"
+csv_path = 'MTG_2021_MASTER_THESIS\\mixing_secret_dataset_annotation_with_comment.csv'
 csv_anno = pd.read_csv(csv_path)
 drum_inst_list = ["Drum_Kick", "Drum_Snare", "Drum_HiHat", "Drum_Cymbals", "Drum_Tom"]
 bleeding_dict = {"Track2inst": {}}

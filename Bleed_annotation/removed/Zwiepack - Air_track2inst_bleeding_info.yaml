@@ -1,0 +1,113 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    04_SaxMic1_SpotMic.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\04_SaxMic1_SpotMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Double_Bass'
+      Comment: 'slight'
+    05_SaxMic2_PeerArray.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\05_SaxMic2_PeerArray.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Double_Bass'
+      Comment: 'slight'
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    02_BassMic1_SpotMic.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\02_BassMic1_SpotMic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone'
+      Comment: ''
+    03_BassMic2_PeerArray.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\03_BassMic2_PeerArray.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone'
+      Comment: ''
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    01_MainPair_DominantArray.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\01_MainPair_DominantArray.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_Room_Stereo.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\06_Room_Stereo.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Room_Mono1.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\07_Room_Mono1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    08_Room_Mono2.wav:
+      Track_path: Zwiepack - Air\Zwiepack - Air_RAW\08_Room_Mono2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

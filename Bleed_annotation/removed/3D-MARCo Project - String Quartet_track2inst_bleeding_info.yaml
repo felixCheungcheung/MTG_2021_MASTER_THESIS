@@ -1,0 +1,418 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section:
+    Quartet_054_Floor_1_FLf.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_054_Floor_1_FLf.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_055_Floor_2_FRf.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_055_Floor_2_FRf.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_056_Floor_3_FCf.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_056_Floor_3_FCf.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet-067_Spot_Violin2.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet-067_Spot_Violin2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet-068_Spot_Cello.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet-068_Spot_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet-069_Spot_Viola.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet-069_Spot_Viola.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_066_Spot_Violin1.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_066_Spot_Violin1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_010_OCT3D_1_FL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_010_OCT3D_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_011_OCT3D_2_FR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_011_OCT3D_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_012_OCT3D_3_FC.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_012_OCT3D_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_013_OCT3D_4_RL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_013_OCT3D_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_014_OCT3D_5_RR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_014_OCT3D_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_015_OCT3D_6_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_015_OCT3D_6_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_016_OCT3D_7_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_016_OCT3D_7_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_017_OCT3D_8_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_017_OCT3D_8_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_018_OCT3D_9_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_018_OCT3D_9_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_019_2LCube_1_FL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_019_2LCube_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_01_PCMA3D_1_FL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_01_PCMA3D_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_020_2LCube_2_FR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_020_2LCube_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_021_2LCube_3_FC.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_021_2LCube_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_022_2LCube_4_RL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_022_2LCube_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_023_2LCube_5_RR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_023_2LCube_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_024_2LCube_6_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_024_2LCube_6_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_025_2LCube_7_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_025_2LCube_7_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_026_2LCube_8_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_026_2LCube_8_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_027_2LCube_9_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_027_2LCube_9_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_028_DeccaCuboid_1_FL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_028_DeccaCuboid_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_029_DeccaCuboid_2_FR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_029_DeccaCuboid_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_02_PCMA3D_2_FR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_02_PCMA3D_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_030_DeccaCuboid_3_FC.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_030_DeccaCuboid_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_031_DeccaCuboid_4_RL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_031_DeccaCuboid_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_032_DeccaCuboid_5_RR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_032_DeccaCuboid_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_033_DeccaCuboid_6_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_033_DeccaCuboid_6_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_034_DeccaCuboid_7_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_034_DeccaCuboid_7_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_035_DeccaCuboid_8_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_035_DeccaCuboid_8_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_036_DeccaCuboid_9_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_036_DeccaCuboid_9_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_037_HamasakiSquare_1_FL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_037_HamasakiSquare_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_038_HamasakiSquare_2_FR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_038_HamasakiSquare_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_039_HamasakiSquare_3_RL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_039_HamasakiSquare_3_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_03_PCMA3D_3_FC.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_03_PCMA3D_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_040_HamasakiSquare_4_RR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_040_HamasakiSquare_4_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_041_HamasakiSquare_5_FLh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_041_HamasakiSquare_5_FLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_042_HamasakiSquare_6_FRh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_042_HamasakiSquare_6_FRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_043_HamasakiSquare_7_RLh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_043_HamasakiSquare_7_RLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_044_HamasakiSquare_8_RRh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_044_HamasakiSquare_8_RRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_045_HamasakiSquare_9_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_045_HamasakiSquare_9_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_046_HamasakiSquare_10_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_046_HamasakiSquare_10_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_047_HamasakiSquare_11_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_047_HamasakiSquare_11_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_048_HamasakiSquare_12_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_048_HamasakiSquare_12_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_049_Side_1_SL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_049_Side_1_SL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_04_PCMA3D_4_RL.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_04_PCMA3D_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_050_Side_2_SR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_050_Side_2_SR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_051_Side_3_SLh.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_051_Side_3_SLh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_052_Side_4_SRh.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_052_Side_4_SRh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_053_VOG_1_.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_053_VOG_1_.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_057_KU100_1_L.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_057_KU100_1_L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_058_KU100_2_R.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_058_KU100_2_R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_059_ORTF_1_L.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_059_ORTF_1_L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_05_PCMA3D_5_RR.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_05_PCMA3D_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_060_ORTF_2_R.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_060_ORTF_2_R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_061_Ambeo_Raw_1.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_061_Ambeo_Raw_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_062_Ambeo_Raw_2.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_062_Ambeo_Raw_2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_063_Ambeo_Raw_3.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_063_Ambeo_Raw_3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_064_Ambeo_Raw_4.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_064_Ambeo_Raw_4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_06_PCMA3D_6_FLh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_06_PCMA3D_6_FLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_07_PCMA3D_7_FRh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_07_PCMA3D_7_FRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_08_PCMA3D_8_RLh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_08_PCMA3D_8_RLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Quartet_09_PCMA3D_9_RRh_0m.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_09_PCMA3D_9_RRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    Quartet_065_Eigenmike_Raw_32ch.wav:
+      Track_path: 3D-MARCo Project - String Quartet\3D-MARCo Project - String Quartet_RAW\Quartet_065_Eigenmike_Raw_32ch.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

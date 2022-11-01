@@ -10,7 +10,7 @@
         "woodwinds": ["WoodWind_Section","Flute", "Whistle", "Accordian", "Harmonica", "Clarinet", "Bagpipe", "Saxophone", "Bassoon", "Oboe"], 
         "brass": ["Brass_Section", "Trumpet", "French_Horn", "Trombone", "Tuba"], 
         "electronic_keyboards": ["Electric_Organ", "Synthesizer"], 
-        "fx/processed_sound": ["SFX"],
+        "fx_processed_sound": ["SFX"],
         "pianos": ["Piano", "Electric_Piano"], 
         "electric_guitar": ["Electric_Guitar"], 
         "acoustic_guitar": ["Acoustic_Guitar"], 

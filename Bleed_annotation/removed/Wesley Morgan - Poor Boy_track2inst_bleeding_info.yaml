@@ -1,0 +1,153 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer:
+    12_Synth.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\12_Synth.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  SFX:
+    13_SFX.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\13_SFX.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Marimba: {}
+  Bell:
+    10_Bells.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\10_Bells.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic:
+    11_Toy Piano.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\11_Toy Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Kick:
+    01_KickLow.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\01_KickLow.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_KickHigh.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\03_KickHigh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_KicMid.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\02_KicMid.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    04_Snares.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\04_Snares.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals:
+    06_Cymbals.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\06_Cymbals.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Overheads: {}
+  Drum_Tom:
+    05_Toms.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\05_Toms.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Drum_Overheads'
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    07_Bass.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\07_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar:
+    08_AcGtrs.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\08_AcGtrs.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_Banjo.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\09_Banjo.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar:
+    14_ElecGtr.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\14_ElecGtr.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    15_LeadVox.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\15_LeadVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal:
+    16_BackingVox.wav:
+      Track_path: Wesley Morgan - Poor Boy\Wesley Morgan - Poor Boy_RAW\16_BackingVox.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Unused: {}
+  Ambient_Microphone: {}

@@ -1,0 +1,113 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian:
+    07_Accordion.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\07_Accordion.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Electric_Guitar'
+      Comment: ''
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    06_AcousticGtr.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\06_AcousticGtr.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Accordian'
+      Comment: ''
+    03_ElecGtr1Mic.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\03_ElecGtr1Mic.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Accordian'
+      Comment: ''
+  Electric_Guitar:
+    04_ElecGtr1Amp.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\04_ElecGtr1Amp.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Violin, Accordian'
+      Comment: ''
+    05_ElecGtr2Amp.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\05_ElecGtr2Amp.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    01_BassMic1.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\01_BassMic1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_BassMic2.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\02_BassMic2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    08_Violin.wav:
+      Track_path: Swing Bazar - Fleche D'Or\Swing Bazar - Fleche D'Or_RAW\08_Violin.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Accordian, Electric_Guitar'
+      Comment: ''
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone: {}

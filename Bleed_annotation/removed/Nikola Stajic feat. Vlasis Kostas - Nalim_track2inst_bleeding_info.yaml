@@ -1,0 +1,97 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar:
+    Acoustic Guitar-AR51.wav:
+      Track_path: Nikola Stajic feat. Vlasis Kostas - Nalim\Nikola Stajic feat. Vlasis
+        Kostas - Nalim_RAW\Acoustic Guitar-AR51.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    Acoustic Guitar-Lead-Ela M 251.wav:
+      Track_path: Nikola Stajic feat. Vlasis Kostas - Nalim\Nikola Stajic feat. Vlasis
+        Kostas - Nalim_RAW\Acoustic Guitar-Lead-Ela M 251.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    Room-L-Ela M 260.wav:
+      Track_path: Nikola Stajic feat. Vlasis Kostas - Nalim\Nikola Stajic feat. Vlasis
+        Kostas - Nalim_RAW\Room-L-Ela M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Room-R-Ela M 260.wav:
+      Track_path: Nikola Stajic feat. Vlasis Kostas - Nalim\Nikola Stajic feat. Vlasis
+        Kostas - Nalim_RAW\Room-R-Ela M 260.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

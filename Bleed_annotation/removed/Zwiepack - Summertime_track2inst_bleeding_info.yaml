@@ -1,0 +1,123 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    02_Kick.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\02_Kick.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    03_Snare.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\03_Snare.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    04_Overhead.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\04_Overhead.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom: {}
+  Drum_Room:
+    10_Room.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\10_Room.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    05_BassMic1.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\05_BassMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_BassMic2.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\06_BassMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_BassDI.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\07_BassDI.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano: {}
+  Electric_Piano: {}
+  Brass_Section:
+    08_SaxMic1.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\08_SaxMic1.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    09_SaxMic2.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\09_SaxMic2.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    01_MainPair.wav:
+      Track_path: Zwiepack - Summertime\Zwiepack - Summertime_RAW\01_MainPair.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

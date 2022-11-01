@@ -1,0 +1,193 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    KICK - U48 - LaChappel Tfunk V52 500 series tube pre.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\KICK - U48 - LaChappel Tfunk V52 500 series tube pre.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUM OVERHEAD STEREO L - AR-70 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\DRUM OVERHEAD STEREO L - AR-70 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Piano, Electric_Bass'
+      Comment: 'All instrument tracks leak to each other. '
+    DRUM OVERHEAD STEREO R - AR-70 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\DRUM OVERHEAD STEREO R - AR-70 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Piano, Electric_Bass'
+      Comment: 'All instrument tracks leak to each other. '
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass:
+    UPRIGHT BASS - DI - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\UPRIGHT BASS - DI - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Drum_Overheads'
+      Comment: ''
+    UPRIGHT BASS - ELA M 260 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\UPRIGHT BASS - ELA M 260 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Drum_Overheads'
+      Comment: ''
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    E GUITAR - AR-51 - Presonus M80.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\E GUITAR - AR-51 - Presonus M80.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Piano:
+    PANO B - ELA M 260 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\PANO B - ELA M 260 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+    PIANO A - ELA M 260 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\PIANO A - ELA M 260 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone:
+    SAX A - AK-47mkII - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\SAX A - AK-47mkII - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+    SAX B - AK-47mkII - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\SAX B - AK-47mkII - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Trumpet:
+    TRUMPET A - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\TRUMPET A - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Drum_Overheads, Electric_Bass'
+      Comment: ''
+    TRUMPET B - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\TRUMPET B - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Trombone, Saxophone, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  French_Horn: {}
+  Trombone:
+    TROMBONE A - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\TROMBONE A - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+    TROMBONE B - AR-51 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\TROMBONE B - AR-51 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: 'Saxophone, Trumpet, Drum_Overheads, Electric_Bass'
+      Comment: ''
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    ROOM A - AR-51 - Chandler Germanium - Distressor.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\ROOM A - AR-51 - Chandler Germanium - Distressor.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM B - AR-51 - Chandler Germanium - Distressor.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\ROOM B - AR-51 - Chandler Germanium - Distressor.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM C - Beyer Dynamic 160 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\ROOM C - Beyer Dynamic 160 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM D - Beyer Dynamic 160 - Neve 33102.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\ROOM D - Beyer Dynamic 160 - Neve 33102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM STEREO L - C24 w TFUNK CK12 - Neve 1073.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\ROOM STEREO L - C24 w TFUNK CK12 - Neve 1073.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM STEREO R - C24 w TFUNK CK12 - Neve 1073.wav:
+      Track_path: The Abletones Big Band - Song Of India\The Abletones Big Band -
+        Song Of India_RAW\ROOM STEREO R - C24 w TFUNK CK12 - Neve 1073.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

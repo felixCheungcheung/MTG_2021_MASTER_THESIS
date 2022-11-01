@@ -1,0 +1,143 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    04_SpotPair_Piano.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\04_SpotPair_Piano.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass:
+    10_Spot_Bass.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\10_Spot_Bass.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Violin:
+    06_Spot_Violin1.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\06_Spot_Violin1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    07_Spot_Violin2.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\07_Spot_Violin2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Viola:
+    08_Spot_Viola.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\08_Spot_Viola.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Cello:
+    09_Spot_Cello.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\09_Spot_Cello.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section:
+    05_SpotPair_Woodwind.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\05_SpotPair_Woodwind.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    01_MainPair.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\01_MainPair.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    02_OutriggerPair.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\02_OutriggerPair.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    03_HallPair.wav:
+      Track_path: Andrey Yaroshinsky & The Gnessin Academy Chamber Orchestra - W.A.
+        Mozart's Piano Concerto No.12 K414 (Allegro)\Andrey Yaroshinsky & The Gnessin
+        Academy Chamber Orchestra - W.A. Mozart's Piano Concerto No.12 K414 (Allegro)_RAW\03_HallPair.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}

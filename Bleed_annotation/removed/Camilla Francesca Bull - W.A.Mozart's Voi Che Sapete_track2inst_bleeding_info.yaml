@@ -1,0 +1,109 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    02_PianoSpot.wav:
+      Track_path: Camilla Francesca Bull - W.A.Mozart's Voi Che Sapete\Camilla Francesca
+        Bull - W.A.Mozart's Voi Che Sapete_RAW\02_PianoSpot.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    03_VoxSpot1_V4U.wav:
+      Track_path: Camilla Francesca Bull - W.A.Mozart's Voi Che Sapete\Camilla Francesca
+        Bull - W.A.Mozart's Voi Che Sapete_RAW\03_VoxSpot1_V4U.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    04_VoxSpot2_R102.wav:
+      Track_path: Camilla Francesca Bull - W.A.Mozart's Voi Che Sapete\Camilla Francesca
+        Bull - W.A.Mozart's Voi Che Sapete_RAW\04_VoxSpot2_R102.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    05_VoxSpot3_U47.wav:
+      Track_path: Camilla Francesca Bull - W.A.Mozart's Voi Che Sapete\Camilla Francesca
+        Bull - W.A.Mozart's Voi Che Sapete_RAW\05_VoxSpot3_U47.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+    06_VoxSpot4_U67.wav:
+      Track_path: Camilla Francesca Bull - W.A.Mozart's Voi Che Sapete\Camilla Francesca
+        Bull - W.A.Mozart's Voi Che Sapete_RAW\06_VoxSpot4_U67.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    01_MainPair.wav:
+      Track_path: Camilla Francesca Bull - W.A.Mozart's Voi Che Sapete\Camilla Francesca
+        Bull - W.A.Mozart's Voi Che Sapete_RAW\01_MainPair.wav
+      Bleeding: 'Yes'
+      Bleeding_Instrument: ''
+      Comment: ''

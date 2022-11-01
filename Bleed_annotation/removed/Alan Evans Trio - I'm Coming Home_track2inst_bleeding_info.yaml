@@ -1,0 +1,169 @@
+Track2inst:
+  Electric_Organ:
+    ORGAN LEFT - M80-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\ORGAN
+        LEFT - M80-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN LOW - M82.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\ORGAN
+        LOW - M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ORGAN RIGHT - M80-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\ORGAN
+        RIGHT - M80-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick:
+    DRUMS - Kick In - M81-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - Kick In - M81-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUMS - Kick Out - M82.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - Kick Out - M82.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Snare:
+    DRUMS - Snare - M80-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - Snare - M80-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads:
+    DRUMS - Overheads - M60.L.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - Overheads - M60.L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUMS - Overheads - M60.R.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - Overheads - M60.R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Tom:
+    DRUMS - TOM 1- M81-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - TOM 1- M81-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    DRUMS - TOM 2 - M81-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\DRUMS
+        - TOM 2 - M81-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar:
+    GUITAR - CU-29.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\GUITAR
+        - CU-29.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    GUITAR - M81-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\GUITAR
+        - M81-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Piano: {}
+  Electric_Piano:
+    KEY DI.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\KEY
+        DI.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal:
+    VOX - M80-SH.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\VOX
+        - M80-SH.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Choir: {}
+  Backing_Vocal: {}
+  Unused: {}
+  Ambient_Microphone:
+    ROOM LEFT - M81.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\ROOM
+        LEFT - M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    ROOM RIGHT - M81.wav:
+      Track_path: Alan Evans Trio - I'm Coming Home\Alan Evans Trio - I'm Coming Home_RAW\ROOM
+        RIGHT - M81.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''

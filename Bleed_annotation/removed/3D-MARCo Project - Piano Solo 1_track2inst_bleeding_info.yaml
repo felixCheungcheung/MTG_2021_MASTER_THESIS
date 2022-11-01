@@ -1,0 +1,408 @@
+Track2inst:
+  Electric_Organ: {}
+  Synthesizer: {}
+  SFX: {}
+  Marimba: {}
+  Bell: {}
+  Accordian: {}
+  Harp: {}
+  Harmonica: {}
+  Triangle: {}
+  Chimes: {}
+  Other_Chromatic: {}
+  Drum_Kick: {}
+  Drum_Snare: {}
+  Drum_HiHat: {}
+  Drum_Cymbals: {}
+  Drum_Overheads: {}
+  Drum_Tom: {}
+  Drum_Room: {}
+  Shaker: {}
+  Taiko: {}
+  Timpani: {}
+  Llamador: {}
+  Guaracha: {}
+  Guache: {}
+  Paliteo: {}
+  Conga: {}
+  Sticks: {}
+  Anvil: {}
+  Woodblock: {}
+  Handdrum: {}
+  Tambourine: {}
+  Loop: {}
+  Clicks: {}
+  Claps: {}
+  Djembe: {}
+  Bass_Drum: {}
+  Maracas: {}
+  Bongo: {}
+  Gong: {}
+  Timbale: {}
+  Pandeiro: {}
+  Percussion: {}
+  Synth_Bass: {}
+  Electric_Bass: {}
+  Acoustic_Guitar: {}
+  Electric_Guitar: {}
+  Piano:
+    Piano1_070_Spot_Piano_L.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_070_Spot_Piano_L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_071_Spot_Piano_R.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_071_Spot_Piano_R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_054_Floor_1_FLf.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_054_Floor_1_FLf.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_055_Floor_2_FRf.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_055_Floor_2_FRf.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_056_Floor_3_FCf.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_056_Floor_3_FCf.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_010_OCT3D_1_FL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_010_OCT3D_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_011_OCT3D_2_FR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_011_OCT3D_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_012_OCT3D_3_FC.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_012_OCT3D_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_013_OCT3D_4_RL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_013_OCT3D_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_014_OCT3D_5_RR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_014_OCT3D_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_015_OCT3D_6_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_015_OCT3D_6_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_016_OCT3D_7_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_016_OCT3D_7_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_017_OCT3D_8_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_017_OCT3D_8_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_018_OCT3D_9_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_018_OCT3D_9_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_019_2LCube_1_FL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_019_2LCube_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_01_PCMA3D_1_FL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_01_PCMA3D_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_020_2LCube_2_FR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_020_2LCube_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_021_2LCube_3_FC.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_021_2LCube_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_022_2LCube_4_RL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_022_2LCube_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_023_2LCube_5_RR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_023_2LCube_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_024_2LCube_6_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_024_2LCube_6_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_025_2LCube_7_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_025_2LCube_7_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_026_2LCube_8_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_026_2LCube_8_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_027_2LCube_9_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_027_2LCube_9_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_028_DeccaCuboid_1_FL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_028_DeccaCuboid_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_029_DeccaCuboid_2_FR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_029_DeccaCuboid_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_02_PCMA3D_2_FR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_02_PCMA3D_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_030_DeccaCuboid_3_FC.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_030_DeccaCuboid_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_031_DeccaCuboid_4_RL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_031_DeccaCuboid_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_032_DeccaCuboid_5_RR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_032_DeccaCuboid_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_033_DeccaCuboid_6_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_033_DeccaCuboid_6_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_034_DeccaCuboid_7_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_034_DeccaCuboid_7_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_035_DeccaCuboid_8_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_035_DeccaCuboid_8_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_036_DeccaCuboid_9_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_036_DeccaCuboid_9_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_037_HamasakiSquare_1_FL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_037_HamasakiSquare_1_FL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_038_HamasakiSquare_2_FR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_038_HamasakiSquare_2_FR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_039_HamasakiSquare_3_RL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_039_HamasakiSquare_3_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_03_PCMA3D_3_FC.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_03_PCMA3D_3_FC.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_040_HamasakiSquare_4_RR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_040_HamasakiSquare_4_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_041_HamasakiSquare_5_FLh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_041_HamasakiSquare_5_FLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_042_HamasakiSquare_6_FRh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_042_HamasakiSquare_6_FRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_043_HamasakiSquare_7_RLh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_043_HamasakiSquare_7_RLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_044_HamasakiSquare_8_RRh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_044_HamasakiSquare_8_RRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_045_HamasakiSquare_9_FLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_045_HamasakiSquare_9_FLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_046_HamasakiSquare_10_FRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_046_HamasakiSquare_10_FRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_047_HamasakiSquare_11_RLh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_047_HamasakiSquare_11_RLh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_048_HamasakiSquare_12_RRh_1m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_048_HamasakiSquare_12_RRh_1m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_049_Side_1_SL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_049_Side_1_SL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_04_PCMA3D_4_RL.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_04_PCMA3D_4_RL.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_050_Side_2_SR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_050_Side_2_SR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_051_Side_3_SLh.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_051_Side_3_SLh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_052_Side_4_SRh.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_052_Side_4_SRh.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_053_VOG_1_.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_053_VOG_1_.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_057_KU100_1_L.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_057_KU100_1_L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_058_KU100_2_R.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_058_KU100_2_R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_059_ORTF_1_L.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_059_ORTF_1_L.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_05_PCMA3D_5_RR.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_05_PCMA3D_5_RR.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_060_ORTF_2_R.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_060_ORTF_2_R.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_061_Ambeo_Raw_1.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_061_Ambeo_Raw_1.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_062_Ambeo_Raw_2.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_062_Ambeo_Raw_2.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_063_Ambeo_Raw_3.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_063_Ambeo_Raw_3.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_064_Ambeo_Raw_4.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_064_Ambeo_Raw_4.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_06_PCMA3D_6_FLh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_06_PCMA3D_6_FLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_07_PCMA3D_7_FRh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_07_PCMA3D_7_FRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_08_PCMA3D_8_RLh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_08_PCMA3D_8_RLh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+    Piano1_09_PCMA3D_9_RRh_0m.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_09_PCMA3D_9_RRh_0m.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Electric_Piano: {}
+  Brass_Section: {}
+  Saxophone: {}
+  Trumpet: {}
+  French_Horn: {}
+  Trombone: {}
+  Tuba: {}
+  String_Section: {}
+  Fiddle: {}
+  Double_Bass: {}
+  Violin: {}
+  Viola: {}
+  Cello: {}
+  Flute: {}
+  Clarinet: {}
+  Bagpipe: {}
+  Whistle: {}
+  Bassoon: {}
+  Oboe: {}
+  WoodWind_Section: {}
+  Lead_Vocal: {}
+  Choir: {}
+  Backing_Vocal: {}
+  Unused:
+    Piano1_065_Eigenmike_Raw_32ch.wav:
+      Track_path: 3D-MARCo Project - Piano Solo 1\3D-MARCo Project - Piano Solo 1_RAW\Piano1_065_Eigenmike_Raw_32ch.wav
+      Bleeding: 'No'
+      Bleeding_Instrument: ''
+      Comment: ''
+  Ambient_Microphone: {}
