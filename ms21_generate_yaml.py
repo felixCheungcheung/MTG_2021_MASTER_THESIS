@@ -319,11 +319,12 @@ if __name__ == "__main__":
         base_path = os.path.join(root_path, split)
         save_path = os.path.join(out_path,split)
         os.makedirs(save_path, exist_ok=True)
-        residual_path_list = []
-        for i in os.listdir(base_path):
-            if not os.path.exists(os.path.join(save_path,i,i+'_METADATA.yaml')):
-                residual_path_list.append(i)
-        print(residual_path_list)
+        residual_path_list = os.listdir(os.path.join(root_path, split))
+        # residual_path_list = []
+        # for i in os.listdir(base_path):
+        #     if not os.path.exists(os.path.join(save_path,i,i+'_METADATA.yaml')):
+        #         residual_path_list.append(i)
+        # print(residual_path_list)
         
         with pool:
             pool.map(gen_yaml, residual_path_list)
