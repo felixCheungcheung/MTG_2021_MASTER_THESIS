@@ -15,7 +15,7 @@ from rule_based_mixing import inst_spec_mix
 # Reference: https://github.com/SiddGururani/mixing_secrets/blob/master/generate_yaml.py
 
 
-def gen_yaml(directory, move_raw = True):
+def gen_yaml(directory, move_raw = False):
     csv_anno = pd.read_csv(anno_file_path)
     hierarchy_file = json.load(open(hierarchy_path, 'r'))
     print(directory)
